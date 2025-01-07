@@ -1,2 +1,2 @@
-appspec.yml merge=ours
-scripts/* merge=ours
+appspec.yml merge=keepmine
+scripts/** merge=keepmine
